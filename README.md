@@ -1,8 +1,8 @@
 # 황경민 (Hwang Kyungmin)
 
-인프라·클라우드 엔지니어를 준비하고 있습니다. 서비스가 어디서 어떻게 돌아가고, 어떻게 하면 멈추지 않는지에 관심이 많습니다.7
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&color=36BCF7&lines=Infrastructure+%26+Cloud;Terraform+%7C+Kubernetes+%7C+AWS;%EB%A9%88%EC%B6%94%EC%A7%80+%EC%95%8A%EB%8A%94+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4)
+
+휴학하고 클라우드 부트캠프 다니는 중입니다. Terraform으로 VPC 짜고, EKS에 올리고, 깨지면 고치는 걸 반복하고 있습니다.
 
 ## Tech Stack
 
