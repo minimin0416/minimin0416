@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Snake animation](https://raw.githubusercontent.com/본인아이디/본인아이디/output/github-contribution-grid-snake.svg)
+
 <!--
 **minimin0416/minimin0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
