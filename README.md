@@ -38,6 +38,6 @@ Terraform으로 AWS 인프라를 코드로 구성했습니다. VPC와 public/pri
 
 ---
 
-홍익대학교 법학부·컴퓨터공학과 복수전공 · 농구 동아리 회장 🏀
+홍익대학교 법학부·컴퓨터공학과 복수전공
 
 ![Snake animation](https://raw.githubusercontent.com/minimin0416/minimin0416/output/github-contribution-grid-snake.svg)
